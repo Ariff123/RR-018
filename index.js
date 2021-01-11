@@ -47,9 +47,9 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
     XBOT: '❉AmpibI❉', 
-    instagram: 'https://instagram.com/affis_saputro123', 
-    nomer: 'wa.me/6282334297175',
-    youtube: 'https://youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg', 
+    instagram: 'https://www.instagram.com/ks.berkarya_02', 
+    nomer: 'wa.me/6285376980664',
+    youtube: 'https://www.youtube.com/channel/UC6Bjch33bt1b-MSx1Clu7Qg?view_as=subscriber', 
     whatsapp: 'Comming soon', 
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
